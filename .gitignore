@@ -1,0 +1,17 @@
+# Python environment
+.venv/
+venv/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database / Local dynamic data
+student_dashboard.db
+*.sqlite3
+
+# IDE and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
